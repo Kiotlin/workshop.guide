@@ -1,22 +1,13 @@
-# [Nextra](https://nextra.vercel.app)
+# [workshop.guide](https://workshop-guide.vercel.app/)
 
-_Warning: this project is not production ready, API might change without notice._
+_This project is the source code of **workshop.guide**._ 
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
+![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fworkshop-guide.vercel.app%2F)
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
+**workshop.guide** is [MDX](https://mdxjs.com) powered, no-code doc site. 
 
-![](/public/demo.png)
-
-## Development
-
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
-
-## Themes
-
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
+It maintains a notebook which records different kinds of tools that are often used in [@ri1ken](https://github.com/Kiotlin)'s programmer life.
 
 ---
 
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+Created by [@ri1ken](https://github.com/Kiotlin) at [Vercel](https://vercel.com). Released under the MIT license.
