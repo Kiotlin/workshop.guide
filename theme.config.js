@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/Kiotlin',
+  github: 'https://github.com/Kiotlin/workshop.guide',
   docsRepositoryBase: 'https://github.com/Kiotlin/workshop.guide/blob/main',
   titleSuffix: ' — ri1ken',
   logo: (
