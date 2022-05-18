@@ -1,7 +1,7 @@
 {
-  "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "index": "关于",
+  "render": "页面渲染",
+  "web-app": "web工具",
+  "desktop-app": "桌面工具",
+  "tamashi": "有趣的灵魂"
 }
