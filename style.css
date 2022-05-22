@@ -1,0 +1,36 @@
+a {
+  --tw-text-opacity: 1;
+  color: rgba(107, 114, 128, var(--tw-text-opacity));
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline #535a63 dotted;
+  opacity: 0.75;
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+.w-12 {
+  width: 48px;
+}
+.h-12 {
+  height: 48px;
+}
+.basis-auto {
+  flex-basis: auto;
+}
+.content-between {
+  justify-content: space-between;
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.object-cover {
+  object-fit: cover;
+}
+.object-center {
+  object-position: center;
+}
