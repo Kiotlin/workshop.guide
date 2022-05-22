@@ -1,2 +1,25 @@
-# 渲染网站内容的常用代码模板
+import AppCard from '../components/appCard';
 
+# 渲染网站内容的常用代码模板
+## ``AppCard``
+作者：[@ri1ken](https://github.com/Kiotlin)
+
+参数：
+- ``picOrgin`` 头像链接，必填
+- ``appName`` 软件称呼，必填
+- ``website`` 官网链接，选填，默认为不跳转
+- ``picAlt`` 头像的alt属性，用于头像无法加载时的代替文本，默认值是Avatar
+- 自定义属性，使用以上保留参数名以外的变量名进行定义，如 ``twitter={url}``，默认为卡片添加一个标签图片，图片的地址即为 ``url`` 的值
+- 描述主体部分，写在标签中间
+
+举例：
+```markdown
+<AppCard picOrgin="https://pbs.twimg.com/profile_images/1336132973502976000/qqrNWDeP_400x400.jpg" appName="Notion" website="https://notion.so" twitter="https://img.shields.io/twitter/follow/NotionHQ?style=social">
+    这是一款集成了笔记，知识库，数据表格，看板，日历等多种能力于一体的应用程序，它支持个人用户单独使用，也可以与他人进行跨平台协作。
+</AppCard>
+```
+
+效果：
+<AppCard picOrgin="https://pbs.twimg.com/profile_images/1336132973502976000/qqrNWDeP_400x400.jpg" appName="Notion" website="https://notion.so" twitter="https://img.shields.io/twitter/follow/NotionHQ?style=social">
+    这是一款集成了笔记，知识库，数据表格，看板，日历等多种能力于一体的应用程序，它支持个人用户单独使用，也可以与他人进行跨平台协作。
+</AppCard>
