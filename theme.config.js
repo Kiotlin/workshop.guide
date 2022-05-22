@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Workshop Guidebook</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        ri1ken's workshop notebook
+        ri1ken's Toolbox 🧰
       </span>
     </>
   ),
@@ -63,5 +63,5 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Workshop.guide.</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '🧰',
 }
