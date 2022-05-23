@@ -39,7 +39,7 @@ const AppCard = ({
             href={`${website}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="px-3 py-1 rounded-md shadow text-sm font-semibold"
+            className="px-3 py-1 rounded-md shadow text-sm font-semibold dark:text-gray-100"
           >
             <LaunchIcon fontSize="small"/> Website
           </a>

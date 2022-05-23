@@ -34,3 +34,6 @@ a:hover {
 .object-center {
   object-position: center;
 }
+.dark .dark\:text-gray-100 {
+  color: rgb(243 244 246);
+}
