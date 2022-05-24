@@ -1,4 +1,4 @@
-# [workshop.guide](https://workshop-guide.vercel.app/)
+![Workshop.guide](https://workshop-guide.vercel.app/logo-st.png)
 
 _This project is the source code of **workshop.guide**._ 
 
