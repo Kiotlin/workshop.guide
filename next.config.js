@@ -6,10 +6,7 @@ const withNextra = require('nextra')({
 module.exports = withNextra({
   images: {
     domains:[
-      'pbs.twimg.com',
-      'www.typelit.io',
-      'upload.wikimedia.org',
-      'avatars.githubusercontent.com'
+      'lnks.ga',
     ],
   }
 })
