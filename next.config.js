@@ -6,7 +6,6 @@ const withNextra = require('nextra')({
 module.exports = withNextra({
   images: {
     domains:[
-      'lnks.ga',
       'url-shortener.ri1ken.workers.dev',
     ],
   }
