@@ -1,5 +1,5 @@
 {
-  "name": "nextra",
+  "name": "workshop.guide",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "next-remote-watch",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "ri1ken",
   "license": "MIT",
   "dependencies": {
     "@emotion/react": "^11.9.0",
